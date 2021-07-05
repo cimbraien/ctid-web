@@ -11,14 +11,14 @@ body {
 header {
 	background-color: rgba(0, 0, 0, 0.5);
 	width: 100%;
-	height: 80px;
+	height: 50px;
 }
 
 .top-wrapper {
 	position: relative;
 	background-color: #2e2f33;
 	width: 100%;
-	height: 700px;
+	height: 400px;
 	margin: 0;
 	font-family: PressStart;
 }
@@ -48,12 +48,12 @@ header {
 
 .top-wrapper h1 {
 	text-align: center;
-	font-size: 54px;
+	font-size: 32px;
 	padding: 0;
 }
 
 .top-wrapper h2 {
 	text-align: center;
-	font-size: 90px;
+	font-size: 60px;
 	margin: 0;
 }
